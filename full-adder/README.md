@@ -1,1 +1,1 @@
-A basic full adder to figure out this Git stuff.
+A basic 1-bit full adder to get the hang of this Git stuff.
